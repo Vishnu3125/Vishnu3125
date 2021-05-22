@@ -1,6 +1,6 @@
 ![BannerGIF](./name_gif.gif)
 
-<h2>Hello <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Folks !</h2>
+<h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Folks !</h2>
 <br/>
 <br/>
 
