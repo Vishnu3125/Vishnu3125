@@ -1,5 +1,10 @@
 ![BannerGIF](./name_gif.gif)
 
+<h2><img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello Folks !</h2>
+<br/>
+<br/>
+
+
 <h2>👨🏻‍💻  About Me </h2>
 
 - 👀 I'm a web developer and work in related technologies, and have also worked with pyton and many popular libraries like BS4, Selenium and PyAutoGui
