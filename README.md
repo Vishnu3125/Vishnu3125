@@ -1,4 +1,4 @@
-![alt text](./image.png)
+![BannerGIF](./name_gif.gif)
 
 <h2>👨🏻‍💻  About Me </h2>
 
