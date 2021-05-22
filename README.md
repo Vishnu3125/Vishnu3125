@@ -1,4 +1,4 @@
-<h2>👨🏻‍💻  About Me </h2>
+<h2 style="bottom-padding: 50px">👨🏻‍💻  About Me </h2>
 
 - 👀 I'm a web developer and work in related technologies, and have also worked with pyton and many popular libraries like BS4, Selenium and PyAutoGui
 - 🎓  I'm currently studying Msc.IT from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (2020-2022).
@@ -6,6 +6,16 @@
 - ✍️  In my free time, I play Games, Cricket and Cooking as my hobbies.
 - 📫 You can email me at vinayakv3125@gmail.com. I'll try to respond as soon as possible!
 - 📄  You can check my [Resume](https://drive.google.com/file/d/1Hy6mnf93o4NM67UZbpbONpEZXYPwKJ6M/view?usp=sharing "Resume") for more details.
+
+
+[========]
+
+[========]
+
+[========]
+
+[========]
+
 
 
 <h2>🛠 Tech Stack</h2>
@@ -27,8 +37,16 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
 ![JMH](https://img.shields.io/badge/JMH%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 
+[========]
 
-<h2>📫 How to reach me:</h2>
+[========]
+
+[========]
+
+[========]
+
+ <h2>📫  How to reach me:</h2>
+
 
 <a href="https://www.linkedin.com/in/b555521b/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:vinayakv3125@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
