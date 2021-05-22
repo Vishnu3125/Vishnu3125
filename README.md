@@ -1,3 +1,5 @@
+![alt text](./image.png)
+
 <h2>👨🏻‍💻  About Me </h2>
 
 - 👀 I'm a web developer and work in related technologies, and have also worked with pyton and many popular libraries like BS4, Selenium and PyAutoGui
