@@ -1,4 +1,4 @@
-![BannerGIF](./name-c.gif)
+![BannerGIF](./name.gif)
 
 <h2>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Folks !</h2>
 <br/>
