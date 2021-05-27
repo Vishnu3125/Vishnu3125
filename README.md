@@ -7,7 +7,7 @@
 
 <h2>👨🏻‍💻  About Me </h2>
 
-- 👀 I'm a web developer and work in related technologies, and have also worked with pyton and many popular libraries like BS4, Selenium and PyAutoGui
+- 👀 I'm a web developer and work in related technologies, and have also worked with python and many popular libraries like BS4, Selenium and PyAutoGui
 - 🎓  I'm currently studying Msc.IT from Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar (2020-2022).
 - 🌱 I'm on track for learning more about web development and cyber Security
 - ✍️  In my free time, I play Games, Cricket and Cooking as my hobbies.
